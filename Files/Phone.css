@@ -1,0 +1,106 @@
+/* Navigation */
+
+#navbar{
+
+    flex-direction: column;
+    height: 140%;
+    width: 100%;
+
+}
+
+#navbar ul li{
+
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+
+}
+
+#navbar ul li a{
+
+    padding: 0px;
+    font-size: .8rem;
+
+}
+
+/* Home */
+
+#home{
+
+    width: 100%;
+
+}
+
+#home h1{
+
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+#home p{
+
+    text-align: center;
+
+}
+
+#home::before{
+
+   width: 200%;
+
+}
+
+/* Service Section  */
+
+.box{
+
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+
+#ser{
+
+    margin-top: 12px;
+
+}
+
+
+.bx{
+
+    margin-top: 10px
+
+}
+
+#CH{
+
+    text-align: center;
+
+}
+
+#C{
+
+    font-size: .8rem;
+
+}
+
+.CB{
+
+    margin-left: 5px;
+
+}
+
+.CB img{
+
+    height: 50px;
+    width: 50px;
+
+}
+
+.btn{
+
+    margin-top: 0;
+
+}
